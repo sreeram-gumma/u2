@@ -10,6 +10,6 @@
 </head>
 <body>
   <h1>This is a sample test page with a test background color.</h1>
-<h2>This is a sample test page to to test the actual code is working.</h2>
+<h3>This is a sample test page to to test the actual code is working.</h3>
 </body>
 </html>
