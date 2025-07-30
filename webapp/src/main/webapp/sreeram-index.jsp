@@ -4,7 +4,7 @@
   <title>S2 Test Page</title>
   <style>
     body {
-      background-color:yellow;
+      background-color:pink;
     }
   </style>
 </head>
